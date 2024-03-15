@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080549298199",
+    "project_id": "final-project-sanber-campus",
+    "storage_bucket": "final-project-sanber-campus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080549298199:android:dac4ae4039e1bd0c974c52",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGaxb7seauH53sLff-y95MH1S9rSdQB6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
